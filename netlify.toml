@@ -1,0 +1,4 @@
+# Sito statico: nessuna build, si pubblica la cartella cosi' com'e'.
+[build]
+  publish = "."
+  command = "echo 'sito statico, nessuna build'"
